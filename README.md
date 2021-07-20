@@ -1,2 +1,4 @@
 # productApp
-CRUD application with category &amp; product information
+## language:Node js
+## database:Mysql workbench
+CRUD application with category & product information
